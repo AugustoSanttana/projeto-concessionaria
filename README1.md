@@ -27,7 +27,7 @@ Como Executar o Projeto
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Santt22/projeto-concessionaria.git
 
 Acesse a pasta do projeto:
 
@@ -45,10 +45,9 @@ Melhorias Futuras
 
 🔹 Implementação de uma interface web.
 
-🔹 Integração com APIs para consulta de valores de veículos.
-
 🔹 Melhorias na segurança e gestão de permissões.
 
 Contato
 
-📧 Email: seuemail@email.com🐙 GitHub: github.com/seu-usuario
+📧 Email: augustosantana2005@gmail.com 
+🐙 GitHub: github.com/Santt22
